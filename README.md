@@ -1,6 +1,8 @@
 
 # FairyLoom E-Commerce Website
 
+Visit the Website: https://fairyloom.onrender.com/
+
 **FairyLoom** is an e-commerce website dedicated to providing a seamless shopping experience for users. The website encompasses various features, including product browsing, cart management, and a payment system. This document outlines the structure, functionality, and technical details of the website, focusing on the payment and order confirmation components.
 
 ## Table of Contents
@@ -145,4 +147,20 @@ When users select a payment method (Credit Card, Debit Card, or Cash on Delivery
 Once the order is placed, users are redirected to the **Order Confirmation Page**, where they see a confirmation message.
 
 ![Order Confirmation](https://github.com/user-attachments/assets/0e2b664e-9115-4ac5-9c32-2d315636983e)
+
+
+
+--------
+
+## 📫 Contact Me  
+📧 Email: jaindhaani0919@gmail.com
+💼 LinkedIn: www.linkedin.com/in/dhaani-jain-09b9482a0  
+💻 GitHub: https://github.com/Dhaani09
+🌐 Portfolio: https://dhaani09.github.io/Portfolio/ 
+
+---
+
+⭐ Feel free to check out my work and connect with me! If you like my portfolio, consider **starring** this repository!  
+ 
+
 
