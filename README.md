@@ -1,5 +1,5 @@
 
-# FairyLoom E-Commerce Website
+#E-Commerce Website
 
 [Visit the Website](https://fairyloom.onrender.com/)
 
