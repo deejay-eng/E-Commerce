@@ -1,7 +1,7 @@
 
 # FairyLoom E-Commerce Website
 
-Visit the Website: https://fairyloom.onrender.com/
+[Visit the Website](https://fairyloom.onrender.com/)
 
 **FairyLoom** is an e-commerce website dedicated to providing a seamless shopping experience for users. The website encompasses various features, including product browsing, cart management, and a payment system. This document outlines the structure, functionality, and technical details of the website, focusing on the payment and order confirmation components.
 
@@ -154,9 +154,9 @@ Once the order is placed, users are redirected to the **Order Confirmation Page*
 
 ## 📫 Contact Me  
 📧 Email: jaindhaani0919@gmail.com
-💼 LinkedIn: www.linkedin.com/in/dhaani-jain-09b9482a0  
-💻 GitHub: https://github.com/Dhaani09
-🌐 Portfolio: https://dhaani09.github.io/Portfolio/ 
+💼 [Visit My LinkedIn Profile](www.linkedin.com/in/dhaani-jain-09b9482a0)  
+💻 [Visit My Github Profile](https://github.com/kaanchiiii)
+🌐 [Visit My Portfolio](https://kaanchiiii.github.io/Portfolio/)  
 
 ---
 
