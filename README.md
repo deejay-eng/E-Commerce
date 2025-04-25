@@ -1,5 +1,5 @@
 
-#E-Commerce Website
+# E-Commerce Website
 
 [Visit the Website](https://fairyloom.onrender.com/)
 
@@ -28,7 +28,7 @@ This is an e-commerce website dedicated to providing a seamless shopping experie
 
 ## Overview
 
-FairyLoom goes beyond just a static representation of products and includes dynamic features to enhance user engagement and facilitate seamless transactions. The website incorporates a user-friendly and intuitive interface, enabling visitors to browse through various product categories, view detailed product descriptions, and add items to their shopping cart.
+This website goes beyond just a static representation of products and includes dynamic features to enhance user engagement and facilitate seamless transactions. The website incorporates a user-friendly and intuitive interface, enabling visitors to browse through various product categories, view detailed product descriptions, and add items to their shopping cart.
 
 ---
 
