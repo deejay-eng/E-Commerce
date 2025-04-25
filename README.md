@@ -3,7 +3,7 @@
 
 [Visit the Website](https://fairyloom.onrender.com/)
 
-**FairyLoom** is an e-commerce website dedicated to providing a seamless shopping experience for users. The website encompasses various features, including product browsing, cart management, and a payment system. This document outlines the structure, functionality, and technical details of the website, focusing on the payment and order confirmation components.
+This is an e-commerce website dedicated to providing a seamless shopping experience for users. The website encompasses various features, including product browsing, cart management, and a payment system. This document outlines the structure, functionality, and technical details of the website, focusing on the payment and order confirmation components.
 
 ## Table of Contents
 - [Overview](#overview)
