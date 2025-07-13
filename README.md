@@ -152,11 +152,12 @@ Once the order is placed, users are redirected to the **Order Confirmation Page*
 
 --------
 
+
 ## 📫 Contact Me  
 📧 Email: jaindhaani0919@gmail.com
-💼 [Visit My LinkedIn Profile](www.linkedin.com/in/dhaani-jain-09b9482a0)  
-💻 [Visit My Github Profile](https://github.com/kaanchiiii)
-🌐 [Visit My Portfolio](https://kaanchiiii.github.io/Portfolio/)  
+💼 LinkedIn: www.linkedin.com/in/dhaani-jain-09b9482a0  
+💻 GitHub: https://github.com/deejay-eng
+🌐 Portfolio: https://deejay-eng.github.io/Portfolio/
 
 ---
 
